@@ -1,0 +1,54 @@
+9-7-2022
+
+==Loops===
+
+for
+while
+do-while
+for each
+
+====================
+
+while( codition ){ }
+
+
+while
+condition --> when the loop will be executing
+body/coding --> any type of coding 
+updating your condition --> deciding when/how the condition will be broken/ended
+
+
+int a=8, b=10, int c;;
+
+
+while (b >= a){
+	
+	c = a + b;
+	sout(c);
+
+	a++; --> 
+	b--; --> 
+
+}
+
+===== infinite loop =====
+
+	while (6 == 6){ 
+
+		sout("java is easy");
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
